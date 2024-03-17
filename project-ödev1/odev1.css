@@ -1,0 +1,46 @@
+.body{
+    background-color: bisque;
+}
+.body-about{
+    background-image: url("https://i.pinimg.com/736x/2c/87/5d/2c875ddff492bd6fd40cdcf494e5fae1.jpg");
+}
+
+.body-anasayfa{
+    background-image: url("https://i.pinimg.com/564x/3e/c8/e4/3ec8e4e5238094ab6a3b1235ea54104a.jpg");
+    background-size: 1522.080 x 1096.10;
+}
+
+.container{
+    text-align: center;
+}
+
+.content{
+    background-color: #df1313;
+    padding: 5px;
+    border-radius: 24px;
+}
+.font{
+    font-size: x-large;
+    font: bold;
+    font: italic;    
+}
+.box{
+    margin-top: 50px;
+}
+.header{
+    margin: 50px 9px 5px -50px
+}
+
+.box-anasayfa{
+    margin: 0px 9px 5px 999px;
+  }
+.box-product{
+    margin: 0px 9px 5px 9px;
+}
+
+.box-hakkimizda{
+    margin: 0px 495px-15px -458px;
+}
+.header-font{
+    color: chocolate;
+}
